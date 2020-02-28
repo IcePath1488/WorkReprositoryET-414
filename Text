@@ -1,0 +1,6 @@
+echo "# WorkReprositoryET-414" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/IcePath1488/WorkReprositoryET-414.git
+git push -u origin master
